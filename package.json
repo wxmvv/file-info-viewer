@@ -2,7 +2,7 @@
 	"name": "file-info-viewer",
 	"displayName": "File Info Viewer",
 	"description": "Vscode extension to display file information for specified file types",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"license": "MIT",
 	"publisher": "wxmvv",
 	"icon": "icon/icon.png",
@@ -38,7 +38,11 @@
 			{
 				"viewType": "file-info-viewer.fileInfoViewer",
 				"displayName": "File Info Viewer",
-				"selector": []
+				"selector": [
+					{
+						"filenamePattern": "*"
+					}
+				]
 			}
 		]
 	},

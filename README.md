@@ -15,10 +15,7 @@ A lightweight VS Code extension that displays detailed file information in a cus
 
 ## Installation
 
-1. Open VS Code
-2. Go to Extensions view (`Ctrl+Shift+X` or `Cmd+Shift+X`)
-3. Search for "File Info Viewer"
-4. Click Install button
+[Vscode Marketplace](https://marketplace.visualstudio.com/items?itemName=wxmvv.file-info-viewer)
 
 ## Usage
 
