@@ -2,7 +2,7 @@
 	"name": "file-info-viewer",
 	"displayName": "File Info Viewer",
 	"description": "Vscode extension to display file information for specified file types",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"license": "MIT",
 	"publisher": "wxmvv",
 	"icon": "icon/icon.png",
@@ -40,7 +40,7 @@
 				"displayName": "File Info Viewer",
 				"selector": [
 					{
-						"filenamePattern": "*"
+						"filenamePattern": "*.7z"
 					}
 				]
 			}
