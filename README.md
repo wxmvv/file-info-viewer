@@ -39,8 +39,7 @@ A lightweight VS Code extension that displays detailed file information in a cus
 
 ### Screenshots
 
-![File Info Viewer](截屏 2025-07-11 13.14.45.png)
-![Directory Navigation](截屏 2025-07-11 13.14.55.png)
+![File Info Viewer](https://github.com/wxmvv/file-info-viewer/blob/main/Xnip2025-07-11_21-02-46.png?raw=true)
 
 ## Technical Details
 
@@ -55,4 +54,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/wxmvv/file-info-viewer/blob/main/LICENSE)
